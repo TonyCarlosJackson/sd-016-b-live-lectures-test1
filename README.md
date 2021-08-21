@@ -2,4 +2,4 @@
 Aulas ao vivo test1
 
 
-Este repositório armazena os códigos e ... aulas 
+Este repositório armaena os códigos e ... aulas 
